@@ -14,7 +14,7 @@ RealAlg
     :target: https://travis-ci.com/MarkCBell/realalg/
     :alt: Travis build status
 
-.. image:: https://img.shields.io/coveralls/github/MarkCBell/realalg.svg?branch=master
+.. image:: https://coveralls.io/repos/github/MarkCBell/realalg/badge.svg?branch=master
     :target: https://coveralls.io/github/MarkCBell/realalg?branch=master
     :alt: Coveralls status
 
